@@ -1,0 +1,74 @@
+order_id,customer_id,order_date,delivery_date,product_name,category,quantity,unit_price,discount_pct,payment_mode,ship_city
+5001,7,2024-05-12,2024-05-14,USB-C Hub,Electronics,2,1899,25,UPI,Pune
+5002,23,2024-03-02,2024-03-06,Sunscreen SPF50,Beauty,5,799,10,Debit Card,Delhi
+5003,2,2024-11-20,2024-11-30,SQL Handbook,Books,3,649,0,Credit Card,Mumbai
+5004,3,2024-10-07,2024-10-17,Cushion Cover Set,Home Decor,5,899,5,Debit Card,Pune
+5005,9,2024-06-10,2024-06-15,Table Lamp,Home Decor,1,1799,10,UPI,Bengaluru
+5006,5,2024-10-03,2024-10-07,Lip Balm Pack,Beauty,5,349,0,COD,Delhi
+5007,2,2024-11-10,2024-11-15,Bluetooth Headphones,Electronics,2,2499,25,Debit Card,Delhi
+5008,9,2024-08-23,2024-08-28,Cushion Cover Set,Home Decor,2,899,25,UPI,Delhi
+5009,25,2024-01-08,,SQL Handbook,Books,3,649,5,Credit Card,Ahmedabad
+5010,1,2024-02-10,2024-02-16,Table Lamp,Home Decor,1,1799,10,Credit Card,Bengaluru
+5011,1,2024-05-08,2024-05-16,SQL Handbook,Books,4,649,20,UPI,Bengaluru
+5012,23,2024-08-02,2024-08-04,Lip Balm Pack,Beauty,2,349,15,UPI,Delhi
+5013,6,2024-02-29,2024-03-05,Wireless Mouse,Electronics,2,899,10,Credit Card,Chennai
+5014,20,2024-05-11,2024-05-14,Wall Clock,Home Decor,2,1249,20,COD,Mumbai
+5015,24,2024-01-12,2024-01-17,Wireless Mouse,Electronics,4,899,25,Net Banking,Chennai
+5016,4,2024-02-04,2024-02-06,Photo Frame,Home Decor,1,549,15,Net Banking,Hyderabad
+5017,9,2024-12-08,2024-12-12,Almonds 1kg,Grocery,4,1150,25,Credit Card,Delhi
+5018,10,2024-02-05,2024-02-07,USB-C Hub,Electronics,4,1899,25,Net Banking,Ahmedabad
+5019,5,2024-03-25,,USB-C Hub,Electronics,5,1899,25,Credit Card,Delhi
+5020,17,2024-07-29,,USB-C Hub,Electronics,1,1899,5,COD,Delhi
+5021,7,2024-08-06,2024-08-17,Data Science Primer,Books,3,799,0,Debit Card,Pune
+5022,21,2024-05-06,2024-05-10,Wall Clock,Home Decor,4,1249,10,Debit Card,Jaipur
+5023,2,2024-01-09,2024-01-20,Cushion Cover Set,Home Decor,5,899,0,COD,Bengaluru
+5024,11,2024-07-01,2024-07-06,Winter Jacket,Apparel,2,4299,5,Credit Card,Bengaluru
+5025,2,2024-06-07,2024-06-17,Smart Watch,Electronics,5,5499,25,COD,Mumbai
+5026,18,2024-03-04,2024-03-14,Basmati Rice 5kg,Grocery,1,620,10,Debit Card,Ahmedabad
+5027,13,2024-04-18,2024-04-24,SQL Handbook,Books,4,649,10,Debit Card,Jaipur
+5028,10,2024-05-25,,Table Lamp,Home Decor,1,1799,15,Credit Card,Ahmedabad
+5029,101,2024-10-13,2024-10-23,Sunscreen SPF50,Beauty,1,799,20,UPI,Ahmedabad
+5030,17,2024-01-23,2024-02-03,Power Bank,Electronics,1,1599,25,Net Banking,Bengaluru
+5031,11,2024-07-09,2024-07-11,Bluetooth Headphones,Electronics,1,2499,10,Credit Card,Delhi
+5032,11,2024-07-31,2024-08-04,Face Serum,Beauty,2,1299,25,Credit Card,Delhi
+5033,103,2024-06-23,2024-07-01,Formal Shirt,Apparel,1,1499,5,Debit Card,Delhi
+5034,22,2024-07-18,2024-07-27,Wall Clock,Home Decor,5,1249,0,Net Banking,Kolkata
+5035,20,2024-04-28,,Coffee Beans 500g,Grocery,5,749,5,Debit Card,Mumbai
+5036,15,2024-07-02,2024-07-10,Basmati Rice 5kg,Grocery,5,620,10,COD,Kolkata
+5037,8,2024-05-17,2024-05-23,Laptop Stand,Electronics,1,1299,0,COD,Kolkata
+5038,20,2024-08-15,2024-08-25,Cushion Cover Set,Home Decor,4,899,10,COD,Mumbai
+5039,1,2024-01-05,2024-01-15,Running Shoes,Apparel,1,3299,15,Credit Card,Bengaluru
+5040,22,2024-12-10,2024-12-21,Cushion Cover Set,Home Decor,2,899,0,UPI,Kolkata
+5041,1,2024-12-11,2024-12-19,Sunscreen SPF50,Beauty,3,799,10,COD,Bengaluru
+5042,23,2024-12-16,2024-12-20,Denim Jeans,Apparel,2,1899,15,Debit Card,Delhi
+5043,5,2024-06-08,2024-06-16,Smart Watch,Electronics,3,5499,0,COD,Delhi
+5044,24,2024-08-18,2024-08-28,Sunscreen SPF50,Beauty,2,799,20,Credit Card,Chennai
+5045,19,2024-12-09,2024-12-16,Face Serum,Beauty,2,1299,25,Credit Card,Hyderabad
+5046,22,2024-03-20,,Cushion Cover Set,Home Decor,1,899,5,Net Banking,Kolkata
+5047,8,2024-11-22,2024-11-30,Data Science Primer,Books,2,799,15,Credit Card,Kolkata
+5048,101,2024-08-09,2024-08-19,Cotton T-Shirt,Apparel,5,649,0,UPI,Kolkata
+5049,18,2024-08-25,2024-09-03,USB-C Hub,Electronics,1,1899,0,COD,Ahmedabad
+5050,5,2024-11-13,2024-11-23,Fiction Bestseller,Books,5,499,20,COD,Delhi
+5051,23,2024-08-22,2024-08-27,Wall Clock,Home Decor,4,1249,20,COD,Hyderabad
+5052,11,2024-05-24,2024-05-30,Photo Frame,Home Decor,4,549,5,Debit Card,Bengaluru
+5053,102,2024-03-22,2024-03-26,Green Tea Pack,Grocery,1,425,5,UPI,Delhi
+5054,13,2024-08-30,2024-09-04,Photo Frame,Home Decor,2,549,25,COD,Kochi
+5055,13,2024-09-05,,Power Bank,Electronics,1,1599,15,Net Banking,Jaipur
+5056,2,2024-11-08,2024-11-17,Ceramic Vase,Home Decor,4,1399,25,Net Banking,Mumbai
+5057,14,2024-12-12,2024-12-20,Table Lamp,Home Decor,2,1799,10,Net Banking,Pune
+5058,15,2024-01-18,2024-01-29,Wall Clock,Home Decor,3,1249,25,UPI,Kolkata
+5059,15,2024-08-28,2024-09-03,Power Bank,Electronics,2,1599,5,Credit Card,Kolkata
+5060,5,2024-05-26,2024-06-03,Cushion Cover Set,Home Decor,2,899,15,UPI,Delhi
+5061,14,2024-01-31,2024-02-07,Smart Watch,Electronics,1,5499,25,UPI,Pune
+5062,4,2024-05-10,2024-05-12,Face Serum,Beauty,5,1299,0,Credit Card,Kochi
+5063,7,2024-10-19,2024-10-28,Formal Shirt,Apparel,4,1499,0,Debit Card,Pune
+5064,16,2024-03-28,2024-03-31,Wall Clock,Home Decor,3,1249,0,Debit Card,Kochi
+5065,7,2024-02-12,2024-02-17,Business Strategy,Books,2,899,5,Debit Card,Pune
+5066,15,2024-06-30,2024-07-07,Face Serum,Beauty,5,1299,0,Debit Card,Kolkata
+5067,21,2024-09-11,,Wireless Mouse,Electronics,5,899,15,Credit Card,Kolkata
+5068,11,2024-12-03,2024-12-13,Wall Clock,Home Decor,4,1249,25,Net Banking,Bengaluru
+5069,17,2024-05-09,2024-05-12,Ceramic Vase,Home Decor,2,1399,10,Net Banking,Bengaluru
+5070,4,2024-10-22,2024-10-30,Wall Clock,Home Decor,5,1249,20,Net Banking,Kochi
+5071,9,2024-07-04,2024-07-11,Olive Oil 1L,Grocery,2,899,5,COD,Delhi
+5072,3,2024-09-25,2024-09-28,Sunscreen SPF50,Beauty,3,799,0,Net Banking,Hyderabad
+5073,12,2024-12-23,2025-01-01,Smart Watch,Electronics,3,5499,5,UPI,Chennai

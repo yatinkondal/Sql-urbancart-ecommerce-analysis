@@ -1,0 +1,31 @@
+customer_id,first_name,last_name,email,phone,city,state,signup_date,loyalty_tier,annual_income
+1,Aarav,Sharma,aarav.sharma@gmail.com,9912867825,Bengaluru,Karnataka,2021-03-14,Gold,850000
+2,Diya,Mehta,diya.mehta@yahoo.com,9135614226,Mumbai,Maharashtra,2020-07-02,Platinum,1250000
+3,Vivaan,Reddy,vivaan.reddy@outlook.com,9414744854,Hyderabad,Telangana,2022-01-19,Silver,640000
+4,Ananya,Nair,ananya.nair@rediffmail.com,9272719583,Kochi,Kerala,2021-11-05,Gold,720000
+5,Ishaan,Gupta,ishaan.gupta@gmail.com,9962458591,Delhi,Delhi,2019-05-23,Platinum,1500000
+6,Saanvi,Iyer,saanvi.iyer@yahoo.com,9858078673,Chennai,Tamil Nadu,2022-08-30,Silver,560000
+7,Aditya,Joshi,aditya.joshi@outlook.com,9141499914,Pune,Maharashtra,2020-02-11,Gold,910000
+8,Myra,Banerjee,myra.banerjee@rediffmail.com,9214668136,Kolkata,West Bengal,2023-04-07,Silver,480000
+9,Kabir,Malhotra,kabir.malhotra@gmail.com,9399478454,Delhi,Delhi,2021-09-16,Gold,1050000
+10,Anika,Desai,anika.desai@yahoo.com,9871445199,Ahmedabad,Gujarat,2022-06-21,Silver,590000
+11,Reyansh,Rao,reyansh.rao@outlook.com,9814335942,Bengaluru,Karnataka,2020-10-13,Platinum,1320000
+12,Kiara,Pillai,kiara.pillai@rediffmail.com,9938038374,Chennai,Tamil Nadu,2023-01-25,Silver,505000
+13,Arjun,Verma,arjun.verma@gmail.com,9388536477,Jaipur,Rajasthan,2021-07-08,Gold,780000
+14,Navya,Kulkarni,navya.kulkarni@yahoo.com,9855667265,Pune,Maharashtra,2022-03-17,Silver,615000
+15,Vihaan,Chatterjee,vihaan.chatterjee@outlook.com,9103678638,Kolkata,West Bengal,2019-12-01,Platinum,1400000
+16,Aadhya,Menon,aadhya.menon@rediffmail.com,9998090293,Kochi,Kerala,2023-09-12,Silver,470000
+17,Krishna,Bhat,krishna.bhat@gmail.com,9535661907,Bengaluru,Karnataka,2020-04-29,Gold,865000
+18,Prisha,Shah,prisha.shah@yahoo.com,9294612365,Ahmedabad,Gujarat,2021-02-14,Gold,735000
+19,Rudra,Naidu,rudra.naidu@outlook.com,9532714803,Hyderabad,Telangana,2022-11-03,Silver,545000
+20,Sara,Khan,sara.khan@rediffmail.com,9217374122,Mumbai,Maharashtra,2023-05-19,Gold,990000
+21,Dhruv,Saxena,dhruv.saxena@gmail.com,9227022674,Jaipur,Rajasthan,2020-08-24,Silver,625000
+22,Ira,Ghosh,ira.ghosh@yahoo.com,9545437923,Kolkata,West Bengal,2021-12-30,Gold,810000
+23,Advait,Kapoor,advait.kapoor@outlook.com,9158707870,Delhi,Delhi,2022-04-06,Platinum,1180000
+24,Meera,Krishnan,meera.krishnan@rediffmail.com,9783094235,Chennai,Tamil Nadu,2019-09-09,Gold,895000
+25,Yash,Patel,yash.patel@gmail.com,9582322047,Ahmedabad,Gujarat,2023-02-27,Silver,530000
+26,Riya,Deshmukh,riya.deshmukh@yahoo.com,9805918715,Pune,Maharashtra,2023-07-15,Silver,495000
+27,Neel,Trivedi,neel.trivedi@outlook.com,9907067228,Mumbai,Maharashtra,2024-01-08,Silver,660000
+28,Tara,Sinha,tara.sinha@rediffmail.com,9834226067,Delhi,Delhi,2024-03-22,Gold,870000
+29,Om,Prakash,om.prakash@gmail.com,9181768805,Jaipur,Rajasthan,2024-05-11,Silver,515000
+30,Zara,Fernandes,zara.fernandes@yahoo.com,9944823498,Bengaluru,Karnataka,2024-06-02,Gold,940000
